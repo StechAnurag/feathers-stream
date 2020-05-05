@@ -1,0 +1,26 @@
+{
+  "name": "feathers-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "keywords": [
+    "feathersjs",
+    "socektio",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@feathersjs/express": "^4.5.4",
+    "@feathersjs/feathers": "^4.5.3",
+    "@feathersjs/socketio": "^4.5.4",
+    "moment": "^2.25.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
